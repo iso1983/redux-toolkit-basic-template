@@ -1,7 +1,10 @@
 Usage:
+
 1)open 2 seperate terminals first in VS code or use bash/terminal
+
 2)In the first terminal cd to directory:  /backend and then run: npm start
-3)In the second terminal cd to direectory: /frontend/test and then run: npm start
+
+3)In the second terminal cd to directory: /frontend/test and then run: npm start
 
 This is just a very basic template created by me using redux-toolkit with redux-thunk for async API calls.I created a file called db.json located in the backend folder to mimic the database,in real life this can be a database from an API.
 
