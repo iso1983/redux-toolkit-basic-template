@@ -8,7 +8,7 @@ import { store } from "./store";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
-  // in the development mode StrictMode runs useEffect and redux twice so i comment it
+
  // <React.StrictMode>
     <Provider store={store}>
       <App />
