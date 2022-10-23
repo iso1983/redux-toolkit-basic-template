@@ -1,4 +1,4 @@
-Usage:
+**Usage**:
 
 1)open 2 seperate terminals first in VS code or use bash/terminal
 
