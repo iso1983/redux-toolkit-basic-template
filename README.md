@@ -1,7 +1,7 @@
 **Usage**:<br>
 redux.png is the image that contains the question
 
-The question folder is the plane React app for the question.Start from the question folder and solve the question by applying Redux in the React app in the question folder.<br>
+The question folder is the plane React app for the question.Start from the question folder and solve the question by applying Redux in the React app in the question folder.<br> <br>
 The solution folder is the folder that contains the complete answer for the question.If you can't solve the question,just check the solution folder.
 
 1)open 2 seperate terminals first in VS code or use bash/terminal
