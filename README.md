@@ -1,4 +1,4 @@
-**Usage**:
+**Usage**:<br>
 redux.png is the image that contains the question
 
 The question folder is the plane React app for the question.Start from the question folder and solve the question by applying Redux in the React app in the question folder.<br>
